@@ -1,0 +1,58 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+ul,
+ol {
+    font-size: 24px;
+}
+
+.toit {
+    height: 1000px;
+    width: 100%;
+}
+
+.pildiosa {
+    display: inline-block;
+    margin-left: 150px;
+}
+
+.tekstiosa {
+    box-sizing: content-box;
+    display: inline-block;
+    margin-top: 50px;
+    vertical-align: top;
+}
+
+.retseptimg {
+    width: 600px;
+    height: auto;
+    display: block;
+    margin: 16px;
+}
+
+.retsept {
+    display: inline-block;
+    margin-left: 50px;
+}
+
+.kirjeldus {
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+.lõpusõnad {
+    font-size: 30px;
+}
+
+.tagasinupp {
+    display: block;
+    text-align: left;
+    font-size: 24px;
+    margin: 16px;
+}
